@@ -9,8 +9,6 @@ Durante el examen deberás demostrar:
 
 **Fork → Codespace → Branch → Edit → Add → Commit → Push → Pull Request → Merge → Pull**
 
-
-
 # PARTE 1. Crear tu FORK
 
 El docente proporcionará la URL del repositorio original. ENVIADO AL WHATSAPP
@@ -79,19 +77,14 @@ Abre la terminal:
 
 Ejecuta:  VER EL ESTADO DEL REPOSITORIO
 
-
-
 Debes observar que estás trabajando sobre: DONDE ESTAS UBICADO
 
 
 # PARTE 4. Crear tu BRANCH
-
-⚠️ **NO debes realizar el examen directamente sobre `main`.**
+ **NO debes realizar el examen directamente sobre `main`.**
 
 Crea una rama 
 Comprueba la rama
-
-
 ```text
 * feature/juan-perez
   main
