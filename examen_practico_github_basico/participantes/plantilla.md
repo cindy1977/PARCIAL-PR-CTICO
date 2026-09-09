@@ -2,8 +2,8 @@
 
 Completa esta ficha en tu propia rama.
 
-- **Nombre:** [Escribe tu nombre]
-- **Carrera/curso:** [Escribe tu carrera o curso]
-- **Rol:** [Escribe tu rol]
-- **Herramienta tecnológica que utilizas:** [Escribe una herramienta]
-- **Meta de aprendizaje:** [Escribe una meta]
+- **Nombre:** CINDY CUENTA 2
+- **Carrera/curso:** PROFESORA
+- **Rol:** COLABORADOR
+- **Herramienta tecnológica que utilizas:** CODESPACES
+- **Meta de aprendizaje:** APRENDER GITHUB
