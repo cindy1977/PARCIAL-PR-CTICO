@@ -8,47 +8,31 @@ El proyecto **Campus Digital** necesita incorporar información de un nuevo inte
 
 Cada estudiante trabajará sobre una rama propia.
 
-## Parte 1 — Preparación
+## Parte 1 — Preparación - SOLO LOS QUE TIENEN GITHUB INSTALADO EN SU EQUIPOS DE ESCRITORIO
 
 Clona este repositorio:
 
-```bash
-git clone URL_DEL_REPOSITORIO
-cd examen-practico-github-basico
-```
+
 
 Verifica la rama actual:
 
-```bash
-git branch
-```
+
 
 Actualiza la información de `main`:
 
-```bash
-git checkout main
-git pull origin main
-```
+
 
 ## Parte 2 — Crear la rama
 
 Crea una rama con este formato:
 
-```bash
-git checkout -b feature/nombre-apellido
-```
 
-Ejemplo:
 
-```bash
-git checkout -b feature/cindy-esquivel
-```
+
 
 Comprueba que estás en la rama correcta:
 
-```bash
-git branch
-```
+
 
 ## Parte 3 — Realizar el cambio
 
@@ -81,66 +65,33 @@ Debes realizar al menos **dos cambios reales**:
 
 ## Parte 4 — Revisar los cambios
 
-Ejecuta:
-
-```bash
-git status
-```
-
-Y:
-
-```bash
-git diff
-```
-
 ## Parte 5 — Add
 
 Agrega los cambios:
 
-```bash
-git add .
-```
 
 Verifica:
 
-```bash
-git status
-```
 
 ## Parte 6 — Commit
 
 Realiza un commit descriptivo:
 
-```bash
-git commit -m "feat: agrega perfil de nombre apellido"
-```
 
 Verifica el historial:
 
-```bash
-git log --oneline -5
-```
+
 
 ## Parte 7 — Push
 
 Publica la rama:
 
-```bash
-git push -u origin feature/nombre-apellido
-```
+
 
 ## Parte 8 — Pull Request
 
 En GitHub:
 
-1. Entra al repositorio.
-2. Abre la opción **Pull requests**.
-3. Selecciona **New pull request**.
-4. Base: `main`.
-5. Compare: `feature/nombre-apellido`.
-6. Título: `feat: agrega perfil de Nombre Apellido`.
-7. En la descripción explica brevemente qué cambiaste.
-8. Crea el Pull Request.
 
 ## Parte 9 — Revisión y Merge
 
@@ -158,22 +109,8 @@ Después de la revisión, se realizará el **Merge Pull Request**.
 
 Después del merge, actualiza tu copia local:
 
-```bash
-git checkout main
-git pull origin main
-```
 
-Comprueba que el cambio integrado está presente:
 
-```bash
-git log --oneline -5
-```
-
-Opcionalmente elimina la rama local:
-
-```bash
-git branch -d feature/nombre-apellido
-```
 
 ## Evidencias que debe entregar el estudiante
 
