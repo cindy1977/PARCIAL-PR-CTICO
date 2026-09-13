@@ -1,0 +1,5 @@
+- **Nombre:** Xavier Cárdenas
+- **Carrera/curso:** Desarrollo de software V
+- **Rol:** Estudiante
+- **Herramienta tecnológica que utilizas:** Codespace
+- **Meta de aprendizaje:** Aprender del curso
